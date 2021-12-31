@@ -25,7 +25,7 @@ Exploratory Data Analysis on product/brand comparison for E-Commerce website.
             - to improve the style of plots/graphs.
 * Used pandas for data manipulation; Matplotlib and seaborn for data visualization.
 
-#### Web Scraping :
+💻 Web Scraping :
 Web Scraping is a process of extracting data from a website. And, we use this method to collect data by scraping the HTML code from the particular website.
 
 #### Data Cleansing :
@@ -33,7 +33,7 @@ Data Cleansing is the process of analyzing data for finding incorrect, corrupt, 
 
 #### Data transformation :
 Data transformation is the process of converting data from one format to another. The most common data transformations are converting raw data into a clean and usable form, converting data types, removing duplicate data, and enriching the data to benefit an organization. During the process of data transformation, an analyst will determine the structure, perform data mapping, extract the data from the original source, execute the transformation, and finally store the data in an appropriate database. 
-💻 Transformed data is usable, accessible, and secure to benefit a variety of purposes.
+* Transformed data is usable, accessible, and secure to benefit a variety of purposes.
 
 #### Data wrangling :
 ✔️ Data wrangling is a term often used to describe the early stages of the data analytics process. It involves transforming and mapping data from one format into another.
