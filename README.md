@@ -23,9 +23,9 @@ Exploratory Data Analysis on product/brand comparison for E-Commerce website.
     - for designing plot and graphs.
   + Seaborn - statistical data visualization 
             - to improve the style of plots/graphs.
-* Used pandas for data manipulation; Matplotlib and seaborn for data visualization.
+✔️ Used pandas for data manipulation; Matplotlib and seaborn for data visualization.
 
-💻 Web Scraping :
+#### Web Scraping :
 Web Scraping is a process of extracting data from a website. And, we use this method to collect data by scraping the HTML code from the particular website.
 
 #### Data Cleansing :
@@ -36,7 +36,12 @@ Data transformation is the process of converting data from one format to another
 * Transformed data is usable, accessible, and secure to benefit a variety of purposes.
 
 #### Data wrangling :
-✔️ Data wrangling is a term often used to describe the early stages of the data analytics process. It involves transforming and mapping data from one format into another.
+Data wrangling is a term often used to describe the early stages of the data analytics process. It involves transforming and mapping data from one format into another.
+
+#### Data visualizations :
+Data visualizations are used to discover unknown facts and trends. It convert large and small data sets into visuals, which is easy to understand and process for humans.
++ the representation of information in the form of a chart, diagram, picture, etc.:
+"data visualization can also be used as a reporting tool"
 
 #### Inferential Statistics :
 Inferential statistics is one of the two statistical methods employed to analyze data, along with descriptive statistics. The goal of this tool is to provide measurements that can describe the overall population of a research project by studying a smaller sample of it.
