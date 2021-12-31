@@ -46,7 +46,7 @@ Data visualizations are used to discover unknown facts and trends. It convert la
 #### 📘 Inferential Statistics :
 Inferential statistics is one of the two statistical methods employed to analyze data, along with descriptive statistics. The goal of this tool is to provide measurements that can describe the overall population of a research project by studying a smaller sample of it.
 
-#### 🔑 Software Requirement :
+#### 🖥️ Software Requirement :
        Jupyter Notebook(Anaconda)
 
 #### 💫 Contributor
