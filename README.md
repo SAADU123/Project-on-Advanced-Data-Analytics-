@@ -26,7 +26,7 @@ Exploratory Data Analysis on product/brand comparison for E-Commerce website.
 
 ✔️ Used pandas for data manipulation; Matplotlib and seaborn for data visualization.
 
-#### Web Scraping :
+📌 Web Scraping :
 Web Scraping is a process of extracting data from a website. And, we use this method to collect data by scraping the HTML code from the particular website.
 
 #### Data Cleansing :
