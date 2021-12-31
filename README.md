@@ -21,9 +21,9 @@ Web Scraping is a process of extracting data from a website. And, we use this me
   Pandas - fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
          - To extract and analyze insights from datasets.
 * Data Visualization libraries :
-  Matplotlib - a comprehensive library for creating static, animated, and interactive visualizations in Python.
+  + Matplotlib - a comprehensive library for creating static, animated, and interactive visualizations in Python.
              - for designing plot and graphs.
-  Seaborn - statistical data visualization 
+  + Seaborn - statistical data visualization 
           - to improve the style of plots/graphs.
 * Used pandas for data manipulation; Matplotlib and seaborn for data visualization.
 
@@ -31,4 +31,4 @@ Web Scraping is a process of extracting data from a website. And, we use this me
       * Jupyter Notebook(Anaconda)
 
 #### ❤️ Contributor
-       Made by SAADURYA K V
+  Made by SAADURYA K V
