@@ -17,7 +17,7 @@ Exploratory Data Analysis on product/brand comparison for E-Commerce website.
   + NumPy  - package for scientific computing with Python
   + Pandas - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
      - To extract and analyze insights from datasets.
-* Data Visualization libraries :
+📗 Data Visualization libraries :
   + Matplotlib - a comprehensive library for creating static, animated, and interactive visualizations in Python
     - for designing plot and graphs.
   + Seaborn - statistical data visualization 
