@@ -1,7 +1,7 @@
-#### Project-on-Advanced-Data-Analytics :
+### Project-on-Advanced-Data-Analytics :
 * Exploratory Data Analysis on product/brand comparison for E-Commerce website.
 
-This project includes the process of data analysis such as
+This project includes the process of data analysis such as :
 * Data Collection using web scarping
 * Data Cleansing
 * Finding Missing data
@@ -10,3 +10,11 @@ This project includes the process of data analysis such as
 * Data Wrangling
 * Data Visualization
 * Inferential Statistics
+
+🚀
+
+🔑 Software Requirement
+Jupyter Notebook(Anaconda)
+
+❤️ Contributor
+Made by Jesina Banu
