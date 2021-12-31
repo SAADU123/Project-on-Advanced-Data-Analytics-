@@ -13,20 +13,22 @@ Exploratory Data Analysis on product/brand comparison for E-Commerce website.
 * Data Visualization
 * Inferential Statistics
 
-* Web Scraping :
-  Web Scraping is a process of extracting data from a website. And, we use this method to collect data by scraping the HTML code from the particular website.
+#### Web Scraping :
+Web Scraping is a process of extracting data from a website. And, we use this method to collect data by scraping the HTML code from the particular website.
   
 * Python libraries :
-  NumPy - package for scientific computing with Python
-  Pandas - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
+  NumPy  - package for scientific computing with Python
+  Pandas - fast, powerful, flexible and easy to use open source data analysis and manipulation tool.
+         - To extract and analyze insights from datasets.
 * Data Visualization libraries :
-  Matplotlib - a comprehensive library for creating static, animated, and interactive visualizations in Python
-  Seaborn - statistical data visualization 
-  
- *Used pandas for data manipulation; Matplotlib and seaborn for data visualization.
+  #Matplotlib - a comprehensive library for creating static, animated, and interactive visualizations in Python.
+             - for designing plot and graphs.
+  #Seaborn - statistical data visualization 
+          - to improve the style of plots/graphs.
+* Used pandas for data manipulation; Matplotlib and seaborn for data visualization.
 
-## 🔑 Software Requirement :
+### 🔑 Software Requirement :
       * Jupyter Notebook(Anaconda)
 
-## ❤️ Contributor
+### ❤️ Contributor
        Made by SAADURYA K V
