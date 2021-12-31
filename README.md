@@ -33,7 +33,7 @@ Web Scraping is a process of extracting data from a website. And, we use this me
 Data Cleansing is the process of analyzing data for finding incorrect, corrupt, and missing values and abluting it to make it suitable for input to data analytics and various machine learning algorithms.
 
 #### Data transformation :
-Data transformation is the process of converting data from one format to another. The most common data transformations are converting raw data into a clean and usable form, converting data types, removing duplicate data, and enriching the data to benefit an organization. During the process of data transformation, an analyst will determine the structure, perform data mapping, extract the data from the original source, execute the transformation, and finally store the data in an appropriate database. 
+Data transformation is the process of converting data from one format to another. The most common data transformations are converting raw data into a clean and usable form, converting data types and removing duplicate data. During the process of data transformation, an analyst will determine the structure, perform data mapping, extract the data from the original source, execute the transformation, and finally store the data in an appropriate database. 
 * Transformed data is usable, accessible, and secure to benefit a variety of purposes.
 
 #### Data wrangling :
