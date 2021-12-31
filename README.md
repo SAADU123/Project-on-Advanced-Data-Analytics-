@@ -23,6 +23,7 @@ Exploratory Data Analysis on product/brand comparison for E-Commerce website.
     - for designing plot and graphs.
   + Seaborn - statistical data visualization 
             - to improve the style of plots/graphs.
+
 ✔️ Used pandas for data manipulation; Matplotlib and seaborn for data visualization.
 
 #### Web Scraping :
@@ -40,7 +41,7 @@ Data wrangling is a term often used to describe the early stages of the data ana
 
 #### Data visualizations :
 Data visualizations are used to discover unknown facts and trends. It convert large and small data sets into visuals, which is easy to understand and process for humans.
-+ the representation of information in the form of a chart, diagram, picture, etc.:
++ the representation of information in the form of a chart, diagram, picture, etc.
 "data visualization can also be used as a reporting tool"
 
 #### Inferential Statistics :
