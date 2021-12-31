@@ -29,7 +29,7 @@ Exploratory Data Analysis on product/brand comparison for E-Commerce website.
 📘 Web Scraping :
 Web Scraping is a process of extracting data from a website. And, we use this method to collect data by scraping the HTML code from the particular website.
 
-#### Data Cleansing :
+#### 📘 Data Cleansing :
 Data Cleansing is the process of analyzing data for finding incorrect, corrupt, and missing values and abluting it to make it suitable for input to data analytics and various machine learning algorithms.
 
 #### Data transformation :
