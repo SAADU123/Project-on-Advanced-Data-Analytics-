@@ -41,8 +41,7 @@ Data wrangling is a term often used to describe the early stages of the data ana
 
 #### Data visualizations :
 Data visualizations are used to discover unknown facts and trends. It convert large and small data sets into visuals, which is easy to understand and process for humans.
-+ the representation of information in the form of a chart, diagram, picture, etc.
-📌 data visualization can also be used as a reporting tool
++ the representation of information in the form of a chart, diagram, picture, etc. It can also be used as a reporting tool.
 
 #### Inferential Statistics :
 Inferential statistics is one of the two statistical methods employed to analyze data, along with descriptive statistics. The goal of this tool is to provide measurements that can describe the overall population of a research project by studying a smaller sample of it.
